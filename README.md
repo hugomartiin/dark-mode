@@ -11,10 +11,10 @@
 ## 📸 Capturas de pantalla  
 
 ### 🌞 Modo Claro  
-![Modo Claro](/public/CAPTURA-LIGHT.PNG)  
+![Modo Claro](/app/assets/img/CAPTURA-LIGHT.PNG)  
 
 ### 🌙 Modo Oscuro  
-![Modo Oscuro](/public/CAPTURA-DARK.PNG)  
+![Modo Oscuro](/app/assets/img/CAPTURA-DARK.PNG)  
 
 
 ## 📦 Instalación y Uso  
