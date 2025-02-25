@@ -1,3 +1,4 @@
+// Componente mostrar informacion persona
 const UserPersona = () => {
     return (
         <div className="row-span-2 p-4 bg-card-bg-light dark:bg-card-bg-dark rounded-xl shadow flex flex-col">

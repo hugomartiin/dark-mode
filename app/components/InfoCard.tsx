@@ -1,4 +1,4 @@
-
+// Componente general para mostrar información
 interface InfoCardProps {
     title: string;
     content: string | string[];
