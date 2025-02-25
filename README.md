@@ -8,14 +8,6 @@
  **Totalmente responsivo:** Se adapta perfectamente a cualquier tamaño de pantalla.  
  **Tailwind CSS y Grid System:** Código limpio, organizado y altamente personalizable.  
 
-## 📸 Capturas de pantalla  
-
-### 🌞 Modo Claro  
-![Modo Claro](app/assets/img/CAPTURA-LIGHT.PNG)  
-
-### 🌙 Modo Oscuro  
-![Modo Oscuro](app/assets/img/CAPTURA-DARK.PNG)  
-
 
 ## 📦 Instalación y Uso  
 1. Clona el repositorio:  
